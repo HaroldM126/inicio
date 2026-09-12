@@ -50,4 +50,4 @@ jobs:
         uses: docker/build-push-action@v7
         with:
           push: true
-          tags: ghcr.io/HaroldM126/inicio:latest
+          tags: ghcr.io/haroldm126/inicio:latest
